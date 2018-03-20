@@ -3,12 +3,10 @@
 [About](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 
 ## About
-[`^ Back to top ^`](#aplikasi-web-pagekit)
 
 FluxBB adalah aplikasi forum open source gratis yang dirancang untuk menjadi cepat, ringan dan user friendly.Kode FluxBB ini, ditulis dalam PHP, memiliki rekam jejak yang terbukti stabilitas dan keamanan. FluxBB sedang aktif dikembangkan.
 
 ## Instalasi
-[`^ kembali ke atas ^`](#aplikasi-web-pagekit)
 
 #### Software Requirement
 
@@ -72,7 +70,6 @@ FluxBB adalah aplikasi forum open source gratis yang dirancang untuk menjadi cep
 6. Selanjutnya buka http://localhost (localhost -> alamat IP atau URL anda). 
 
 ## Konfigurasi (opsional)
-[`^ kembali ke atas ^`](#aplikasi-web-pagekit)
 
 Langkah-langkah untuk konfigurasi :
 
@@ -82,17 +79,14 @@ Langkah-langkah untuk konfigurasi :
         - Selesai! (Tampilan halaman admin)
 
 ## Otomatisasi
-[`^ kembali ke atas ^`](#aplikasi-web-pagekit)
 (**_tidak ada_**)
 
 
 ## Cara Pemakaian
-[`^ kembali ke atas ^`](#aplikasi-web-pagekit)
 
 
 
 ## Pembahasan
-[`^ kembali ke atas ^`](#aplikasi-web-pagekit)
 
 - Pendapat tentang aplikasi web ini
 	- Pros:
@@ -106,7 +100,10 @@ Langkah-langkah untuk konfigurasi :
 ## Referensi
 
 https://fluxbb.org/docs/v1.4/installing
+
 https://www.thegeekstuff.com/2011/07/install-sqlite3/
+
 https://pushpullfork.com/installing-a-known-blog-on-a-private-server/
+
 https://github.com/fluxbb/fluxbb
 
