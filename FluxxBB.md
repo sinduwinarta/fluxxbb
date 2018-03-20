@@ -12,7 +12,7 @@ FluxBB adalah aplikasi forum open source gratis yang dirancang untuk menjadi cep
 
 -Install Apache
 ```
-	    # instal SSH
+	# instal SSH
         sudo apt update
         sudo apt install ssh
 ```
