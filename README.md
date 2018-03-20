@@ -1,6 +1,6 @@
 # fluxxbb
 
-##Project Komunikasi Data dan Jaringan Komputer
+## Project Komunikasi Data dan Jaringan Komputer
 
     Ardi Sinduwinarta / G64150003
 
