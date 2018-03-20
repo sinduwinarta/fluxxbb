@@ -1,8 +1,6 @@
-# "FluxBB"
-<h1 align="center"><img src="https://www.google.co.id/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiR2bTcvfrZAhULRo8KHetIBIgQjRx6BAgAEAU&url=https%3A%2F%2Ffluxbb.org%2F&psig=AOvVaw1qmN3yX3-mXflqJibzdMxn&ust=1521620900399863" width="500px"></h1>
+# Web Aplikasi "FluxBB"
 
 [About](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 ## About
 [`^ Back to top ^`](#aplikasi-web-pagekit)
