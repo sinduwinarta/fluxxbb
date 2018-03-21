@@ -113,11 +113,11 @@ Cara membuat Post:
 ## Pembahasan
 
 - Pendapat tentang aplikasi web ini
-	- Pros:
+	- Kelebihan:
 		- Situs My FluxBB merupakan sebuah aplikasi berbasis web yang ringan sehingga tidak berat saat me-load halaman, diskusi yang dilakukan pada my FluxBB juga terhindar dari spam, hal ini dikarenakan salah satu peraturan My FluxBB dimana user hanya post selama 30 menit sekali.		
-	- Cons:
+	- Kekurangan:
 		- Tidak ada validasi email ketika mengisi form registrasi user
-		- Untuk Register, hanya dapat dilakukan 1 jam sekali
+		- Untuk Register, hanya dapat dilakukan 1 jam sekali dengan IP yang sama
 		- Post hanya dapat dilakukan 30 menit sekali
 		
 
