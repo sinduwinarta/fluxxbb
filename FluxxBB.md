@@ -84,6 +84,30 @@ Langkah-langkah untuk konfigurasi :
 
 ## Cara Pemakaian
 
+User baru:
+
+	1. Buka website : https://fluxbb.org/forums/register.php untuk registrasi pengguna baru
+	2. Click “agree” untuk melanjutkan proses registrasi
+	3. Isi formulir pada halaman yang muncul dengan sebenar benarnya dan click “register”. Pastikan kembali isi dari form yang sudah diisi adalah benar agar dapat menerima email konfirmasi dari pihak fluxbb
+	4. Konfirmasi email address dan aktivasi akun melalui email address yang tertera pada form pendaftaran tadi
+	5. Setelah aktivasi, silahkan setup password lalu login dengan username dan password yang telah dibuat.
+	6. done
+
+User lama:
+
+	1. buka website https://fluxbb.org/forums/login.php untuk login
+	2. Isi form dengan username dan password yang telah dibuat
+	3. Done.
+	
+Cara membuat Post:
+
+	1. Login ke website FluxBB
+	2. Sukses, lalu klik ke forum diskusi terkait
+	3. Scroll page ke bawah dan temukan “Post a new Topic”
+	4. Masukkan “Subject” dengan judul post dan isikan “Message” dengan isi yang ingin didiskusikan
+	5. Klik “Preview” jika ingin melihat kembali postingan barunya
+	6. Jika sudah yakin, ketik “Submit”
+	7. Done
 
 
 ## Pembahasan
